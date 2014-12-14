@@ -113,6 +113,7 @@ new_steps_median
 Yes, the values are differ from the first part of assignment.  
 By inputting missing value with Median, it increase the frequency for each block of data.  
 
+
 ###Are there differences in activity patterns between weekdays and weekends?
 
 
